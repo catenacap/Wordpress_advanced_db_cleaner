@@ -1,1 +1,3 @@
 # Wordpress_advanced_db_cleaner
+
+License: 6ac2ba7bba8ffc7562e896a17231deee
